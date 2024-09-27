@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dec11a8d-c5b0-4387-b17b-1d8ddb37555c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/HW01_pylint_pytest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/HW05_pytest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/HW14_pylint_pytest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/HW16_pylint_pytest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/pylint.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pro_dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/log_interpreter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/reports/report-2017.06.30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_01/tests/test_log_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/scoring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/tests/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/tests/test_server_emulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/api/tests/test_server_real.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_05/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_08/mysite_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/hbo_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/hw12_hbo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/top_10_genres.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/top_10_movies_shows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/words_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_12/worst_10_movies_shows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/gt_bot_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/model.safetensors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/pytorch_model.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/setup.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/special_tokens_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/tokenizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/model/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/tg_bot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_13/tg_bot/telegram_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/appsinstalled.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/appsinstalled_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/memc_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/memc_load_multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_14/tests/test_memc_load_multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/news_2024-11-19_08-22-48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_16/tests/test_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_17/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_17/appsinstalled.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_17/appsinstalled.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_17/memc_load.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/HW08_pylint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/HW08_pylint.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_developer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework_01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/log_analyzer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/nginx-access-ui.log-20170630.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/report-2017.06.30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_01/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_01/tests/test_log_analyzer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework_04/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pz5OR4YKs8nVZp1iSgepRQe4XT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec11a8d-c5b0-4387-b17b-1d8ddb37555c" name="Changes" comment="" />
+      <created>1733756032454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733756032454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
